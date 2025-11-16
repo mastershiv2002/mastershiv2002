@@ -39,6 +39,6 @@ Building strong expertise in Data Science and preparing for real-world ML roles.
 
 📫 Connect With Me
 
-GitHub:https://github.com/mastershiv2002
+GitHub: https://github.com/mastershiv2002
 
-LinkedIn:linkedin.com/in/shivkumar-nevhal-233839290
+LinkedIn: linkedin.com/in/shivkumar-nevhal-233839290
